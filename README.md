@@ -120,12 +120,15 @@ Countries that balance these elements tend to rank higher in overall well-being.
 
 ## 📂 Project Structure
 
-'''├── data/
+"""
+Project Structure:
+├── data/
 ├── notebooks/
 ├── reports/
 ├── images/
 ├── README.md
-└── requirements.txt'''
+└── requirements.txt
+"""
 
 
 
